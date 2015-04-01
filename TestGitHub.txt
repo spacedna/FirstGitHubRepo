@@ -1,1 +1,2 @@
 what is GitHUb?
+GitHub is a tool for version control
